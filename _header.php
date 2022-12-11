@@ -11,15 +11,15 @@
                         <a class="nav-link active" aria-current="page" href="/">Головна</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Додати товар</a>
+                        <a class="nav-link" href="add_product.php">Додати товар</a>
                     </li>
                 </ul>
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Реєстрація</a>
+                        <a class="nav-link" href="register.php">Реєстрація</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Вхід</a>
+                        <a class="nav-link" href="login.php">Вхід</a>
                     </li>
                 </ul>
             </div>
